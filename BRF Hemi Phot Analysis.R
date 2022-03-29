@@ -3,7 +3,7 @@
 
 #library(lme4);library(jtools)
 library(multcomp);library(ggplot2)
-#setwd("~/Desktop/Work Files/Research/BRF Deer Girdling/Data & Analysis Files")
+
 gla.dat<-read.csv("BRF_Hemi Phot GLA data.csv")
 img.match<-read.csv("BRF Photo File Matching.csv")
 
